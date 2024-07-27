@@ -1,0 +1,2 @@
+0 3 * * 1 c/Users/Aigul_Mustafina/devops_course_hmw/6.sh
+0 2 * * 1 c/Users/Aigul_Mustafina/devops_course_hmw/10.sh
